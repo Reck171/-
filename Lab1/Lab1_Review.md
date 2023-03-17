@@ -40,7 +40,7 @@
 
 ![Image alt](https://github.com/Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин3.PNG)
 
-Было определено, что используемый процессор - Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz.
+Было определено, что используемый процессор - Intel(R) Core(TM) i3-1125G4 @ 2.00GHz.
 
 4.Далее получим последние 30 строк логов системы:
 
