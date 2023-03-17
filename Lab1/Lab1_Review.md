@@ -24,25 +24,27 @@
 
 1. Для начала получим сведения об используемом дистрибутиве:
 
-![Image alt](https://github.com/{username}Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин1.png)
+![Image alt](https://github.com/Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин1.PNG)
+
 
 В результате выполнения данной команды было определён используемый дистрибутив - Ubuntu 22.04.2 LTS .
 
 2.Затем получим сведения о версии ядра:
 
+![Image alt](https://github.com/Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин2.PNG)
 
 
 В результате выполнения данной команды была получена версия ядра - 5.19.0-32-generic.
 
 3.Далее можно получить сведения о процессоре:
 
-
+![Image alt](https://github.com/Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин3.PNG)
 
 Было определено, что используемый процессор - Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz.
 
 4.Далее получим последние 30 строк логов системы:
 
-
+![Image alt](https://github.com/Reck171/auth_NSD/raw/main/Lab1/screenshot/тмп_скрин4.PNG)
 
 ## Оценка результата
 
