@@ -1,0 +1,9 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#fields	value.id.orig_h	value.id.resp_h	value.id.resp_p	value.method	value.host	value.uri	count
+#types	addr	addr	port	string	string	string	count
+192.168.0.17	192.229.221.95	80	GET	ocsp.digicert.com	/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx/h0Ztl+z8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g/6+rkS7QYXjzkCEAqvpsXKY8RRQeo74ffHUxc=	1
+192.168.0.17	138.91.171.81	80	POST	dmd.metaservices.microsoft.com	/metadata.svc	1
+192.168.0.17	23.61.216.238	80	POST	go.microsoft.com	/fwlink/?LinkID=252669&clcid=0x409	1
